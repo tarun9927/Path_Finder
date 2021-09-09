@@ -1,0 +1,19 @@
+<svg width="21.875" height="21.875" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="23.875" width="23.875" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Layer_4"/>
+  <g id="Layer_2">
+   <g id="svg_1">
+    <rect id="svg_2" height="5.361" width="14.306" fill="#420863" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 28.6357 16.3531)" y="11.427" x="3.778"/>
+    <rect id="svg_3" height="5.361" width="14.305" fill="#420863" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 13.1915 20.9994)" y="5.088" x="3.792"/>
+   </g>
+  </g>
+  <rect transform="rotate(-45, 9.02341, 5.82876)" id="svg_4" height="9.07213" width="5.41507" y="1.2927" x="6.31587" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <rect transform="rotate(45, 10.8906, 14.1062)" id="svg_5" height="14.53078" width="5.54159" y="6.84086" x="8.11983" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+ </g>
+</svg>

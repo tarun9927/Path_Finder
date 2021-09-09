@@ -1,0 +1,47 @@
+.page{
+  background-color: #303841;
+}
+.grid {
+    position: fixed;
+    top: 0;
+    height: 93%;
+    width: 100%;
+    background-color: #303841;
+    align-items: center;
+  }
+
+.nav-bar{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 7%;
+  background-color: #eeeeee;
+  overflow: auto;
+}
+.nav-bar button {
+  position: relative;
+  background-color: #eeeeee;
+  border: none;
+  font-size: 18px;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  transition-duration: 0.4s;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  margin: 0;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+/* Change the color of links on hover */
+.nav-bar button:hover {
+  color:#00adb5
+}
+
+/* Add a color to the active/current link */
+.nav-bar button.active {
+  color: black;
+}
